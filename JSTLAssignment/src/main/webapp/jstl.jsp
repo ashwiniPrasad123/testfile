@@ -1,8 +1,8 @@
 <%@page import="java.util.StringTokenizer"%>
 <%@ page contentType="text/html" pageEncoding="UTF-8"  isELIgnored="false" 
 import="java.util.ArrayList"%>
-    <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix ="c" %>
-    <%@ taglib uri="http://java.sun.com/jsp/jstl/functions" prefix ="fn" %>
+  //  <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix ="c" %>
+  //  <%@ taglib uri="http://java.sun.com/jsp/jstl/functions" prefix ="fn" %>
     <%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix ="fmt" %>
 <!DOCTYPE html>
 <html>
